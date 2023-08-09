@@ -1,2 +1,6 @@
-# Projeto_final_Bootcamp_Python
-Realizei o projeto final do módulo 1 do bootcamp de programacão XPe. / I carried out the final project of module 1 of the XPe programming bootcamp. The proposal was to create 3 programs in the 3 programming languages ​​we studied (Python, Java and Java Script)
+<h1> Projeto final Bootcamp Python </h1>
+
+<p>Realizei o projeto final do módulo 1 do bootcamp de programação XPe em Python. A proposta era fazer um programa que calcula a folha de pagamento de um funcionário. </p>. 
+
+![ProjetoFinal_Python](https://github.com/marceloabbadia/ProjetoFinal_Python/assets/112344339/8303199a-3ed4-4a90-969b-79fbe599208a)
+![miro](https://github.com/marceloabbadia/ProjetoFinal_Python/assets/112344339/7094ebc2-1ceb-4105-b083-935d8c2afeb4)
